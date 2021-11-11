@@ -11,5 +11,17 @@
   {
     "name": "Today in MongoDB",
     "description": "Checkout the latest in MongoDB 5.0"
+  },
+  {
+    "name": "Why I love NoSQL databases",
+    "description": "NoSQL databases aren't as strict like MySQL letting you use JavaScript syntax in place of SQL syntax. Keeping languages concise"
+  },
+  {
+    "name": "UI/UX with Sketch",
+    "description": "UI/UX for Web and Mobile design couldn't be easier with Sketch. "
+  },
+  {
+    "name": "Why the MERN stack is becoming the best stack out there.",
+    "description": "MongoDB, Express, React, and Node. 4 key technologies built upon JavaScript build powerful 3-tier architecture."
   }
 ]

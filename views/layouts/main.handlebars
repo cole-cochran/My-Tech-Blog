@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tech Daily</title>
   <link rel="stylesheet" href="/css/jass.css">
+  <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssnormalize/cssnormalize-min.css">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 
@@ -19,10 +20,10 @@
       <nav>
         <!-- Conditionally render login or logout links -->
         {{#if logged_in}}
-        <a href="/profile">Profile</a> |
-        <button class="no-button" id="logout">Logout</button>
+        <button  onclick="window.location.href='/profile'" class="button" id="profile">Profile</button>
+        <button class="button" id="logout">Logout</button>
         {{else}}
-        <a href="/login">Login</a>
+        <button  onclick="window.location.href='/login'" class="button" id="login">Login</button>
         {{/if}}
       </nav>
     </header>
