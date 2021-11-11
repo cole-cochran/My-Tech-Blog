@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nathan Delman",
+    "email": "nathan@ducks.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Damien Luzzo",
+    "email": "damien@jswizard.com",
+    "password": "password12345"
+  },
+  {
+    "name": "Slack Manzer",
+    "email": "slackattack@john.com",
+    "password": "password12345"
+  }
+]

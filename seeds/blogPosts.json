@@ -1,0 +1,15 @@
+[
+  {
+    "name": "React.js, Everthing you need to know",
+    "description": "A quick and concise guide to React.js, and why it is so popular."
+  
+  },
+  {
+    "name": "The Ultimate Tech Quiz",
+    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!"
+  },
+  {
+    "name": "Today in MongoDB",
+    "description": "Checkout the latest in MongoDB 5.0"
+  }
+]
