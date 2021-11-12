@@ -16,8 +16,17 @@ header, .project:not(:last-child) {
   color: #065b83;
   text-decoration: underline;
 }
-form {
+
+
+.btn.btn-primary {
+  background-color: #2d3e50;
+  color: #d9e9e8;
+}form {
   width: 100%;
+}
+.btn.btn-danger {
+  background-color: #e64c66;
+  color: #ffffff;
 }
 
 form .form-group {
