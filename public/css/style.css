@@ -1,7 +1,10 @@
 header {
   border-bottom: 1px solid #ccc;
-  background-color: #06837f;
+  background-color: #00609b;
   color: white;
+}
+a {
+  color:white;
 }
 body {
   background-color: #06837f;
@@ -62,7 +65,7 @@ form .form-label {
 }
 
 form .form-input {
-  width: 50%;
+  width: 100%;
   padding: 0.75rem;
   color: #1a1a1a;
   background-color: #ffffff;
